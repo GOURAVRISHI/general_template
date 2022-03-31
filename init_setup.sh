@@ -13,7 +13,7 @@ mkdir src && touch src/__init__.py src/main.py
 # echo [$(date)]: "initialize git repository"
 # git init
 echo [$(date)]: "Curl .gitignore for python"
-curl https://raw.githubusercontent.com/c17hawke/Pytorch-basics/main/.gitignore > .gitignore
+curl https://raw.githubusercontent.com/gouravrishi/Pytorch-basics/main/.gitignore > .gitignore
 # echo [$(date)]: "add env to gitignore"
 # echo "env/" >> .gitignore
 
